@@ -10,6 +10,6 @@ html {
 
 /* Write your solution here */
 
-@media on screen only (max-width: 1196px) {
+@media on screen only and (max-width: 1196px) {
   right: 800px;
 }
